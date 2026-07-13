@@ -1,5 +1,5 @@
 <div class="header" align="center">
-<img alt="ChaosStation14 Logo" width="128" height="128" src="https://raw.githubusercontent.com/K1nG-of-Cha0s/ChaosStation14/master/Resources/Textures/Logo/chaosstation.png" />
+<img alt="ChaosStation14 Logo" width="128" height="128" src="https://raw.githubusercontent.com/K1nG-of-Cha0s/ChaosStation14/master/Resources/Textures/Logo/chaosstation.jpg" />
 </div>
 
 ChaosStation14 is a rounded up fork of [Space Station 14](https://github.com/space-wizards/space-station-14), embracing a mixture of classic SS13 chaos and experimentation minorly possible with the new engine.
